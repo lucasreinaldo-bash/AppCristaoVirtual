@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_frase"
+        android:icon="@drawable/lampada"
+        android:title="Frase Diária"/>
+    <item
+        android:id="@+id/navigation_reflexoes"
+        android:icon="@drawable/msg"
+        android:title="Reflexões"/>
+
+    <item
+        android:id="@+id/navigation_licao"
+        android:icon="@drawable/licao"
+        android:title="Lição"/>
+
+    <item
+        android:id="@+id/navigation_livros"
+        android:icon="@drawable/books"
+        android:title="Livros"/>
+    <item
+        android:id="@+id/navigation_sobre"
+        android:icon="@drawable/books"
+        android:title="Sobre"/>
+
+
+
+</menu>

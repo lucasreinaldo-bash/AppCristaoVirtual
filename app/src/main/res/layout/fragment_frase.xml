@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FraseFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <com.shrikanthravi.library.NightModeButton
+        android:id="@+id/nightModeButton"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="68dp" />
+
+</RelativeLayout>
